@@ -1,8 +1,8 @@
-package week04;
+package week04.problem_2745;
 
 import java.util.Scanner;
 
-public class problem_2745 {
+public class Before2745 {
 	public static void main(String[] args) {
 	Scanner sc = new Scanner(System.in);
 
